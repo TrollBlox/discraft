@@ -3,15 +3,14 @@
 	"id": "discraft",
 	"version": "${version}",
 	"name": "discraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Chat in Minecraft through Discord",
 	"authors": [
-		"Me!"
+		"TrollBlox"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/TrollBlox/discraft"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/discraft/icon.png",
 	"environment": "*",
 	"entrypoints": {
