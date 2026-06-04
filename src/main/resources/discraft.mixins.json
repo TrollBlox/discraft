@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.trollblox.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+      "ChatListenerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
